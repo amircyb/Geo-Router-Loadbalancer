@@ -5,7 +5,7 @@
 ![Stack](https://img.shields.io/badge/Stack-Nginx%20%7C%20PHP--FPM%20%7C%20Bootstrap%205-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Bloodcyb** is an advanced, automated Geo-DNS routing and Loadbalancer system designed specifically for split-traffic architectures (e.g., routing local users to a local server and international bots/users to an external server) without harming SEO.
+**Geo-Router & Loadbalancer** is an advanced, automated Geo-DNS routing and Loadbalancer system designed specifically for split-traffic architectures (e.g., routing local users to a local server and international bots/users to an external server) without harming SEO.
 
 It comes with a fully-featured, beautifully designed **Dark Mode Web Dashboard** to manage clusters, monitor live visual logs, and auto-deploy Let's Encrypt SSL certificates with a single click.
 
