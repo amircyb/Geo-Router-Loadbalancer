@@ -37,12 +37,12 @@ You need a fresh **Ubuntu** or **Debian** server with root privileges.
 ```bash
 wget https://raw.githubusercontent.com/amircyb/Geo-Router-Loadbalancer/main/bloodcyb.sh
 ```
-**Step 2: Make it executable:
+**Step 2**: Make it executable:
 
 ```bash
 chmod +x bloodcyb.sh
 ```
-**Step 3: Run the interactive installer:
+**Step 3**: Run the interactive installer:
 
 ```bash
 ./bloodcyb.sh
