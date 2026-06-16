@@ -40,7 +40,7 @@ You need a fresh **Ubuntu** or **Debian** server with `root` privileges.
 
 **Step 1:** Download the Master Installer script:
 ```bash
-wget [https://raw.githubusercontent.com/amircyb/Geo-Router-Loadbalancer/main/bloodcyb.sh](https://raw.githubusercontent.com/amircyb/Geo-Router-Loadbalancer/main/bloodcyb.sh)
+wget https://raw.githubusercontent.com/amircyb/Geo-Router-Loadbalancer/main/bloodcyb.sh
 ```
 
 **Step 2:** Make it executable:
