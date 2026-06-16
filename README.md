@@ -9,7 +9,8 @@
 
 It comes with a fully-featured, beautifully designed **Dark Mode Web Dashboard** to manage clusters, monitor live visual logs, handle unlimited proxies as system services, and auto-deploy Let's Encrypt SSL certificates with a single click.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b86c8224-0ab2-42a5-a4a6-8c81e09f3b7d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ea068ff-d925-4051-9426-dc278cd91a5d" />
+
 
 ## ✨ Key Features (v13.6 Updates)
 
